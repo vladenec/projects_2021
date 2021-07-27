@@ -16,6 +16,6 @@
 https://public.tableau.com/profile/vlad.ivanov#!/vizhome/Space_Bros_project/DashboardSpaceBros
 
 #### Проект 2
-Описание: Анализ взаимодействия пользователей Яндекс.Дзен с карточками по различным темам. Анализ источников перехода.
+Описание: Анализ взаимодействия пользователей Яндекс.Дзен с карточками по различным темам. Анализ источников перехода. 
 
 https://public.tableau.com/profile/vlad.ivanov#!/vizhome/Ya_ZenAnalys/Dashboard1
