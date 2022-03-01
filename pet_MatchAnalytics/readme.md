@@ -12,7 +12,7 @@
 
 ## Подготовка датасета 
 
-Код извлечения даты с портала [understat.com](https://understat.com/) смотри файл "pet_MatchAnalytics_fooball_scraping_data_understat.ipynb" 
+Код извлечения данных с портала [understat.com](https://understat.com/) смотри файл "pet_MatchAnalytics_fooball_scraping_data_understat.ipynb" 
 
 ## Визуализация, построение дашборда со статистикой
 
