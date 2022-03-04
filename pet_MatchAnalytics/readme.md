@@ -18,8 +18,12 @@
 ## Визуализация, построение дашборда со статистикой
 
 Визуализация выполнялась в Tableau, для связи странички с парсингом в *Colab* и загрузки данных в *Tableau* использован *Google Drive* 
+Готовый результат: 2 дашборда с информацией о xG команд и статистикой матча
 
-#Пример 1. Один из первых матчей 2022 года. Матч лидеров АПЛ Челси - Ливерпуль. https://understat.com/match/16578 (ID = 16578)
+#Пример 1. Один из первых матчей 2022 года. Матч лидеров АПЛ Челси - Ливерпуль. 
+* [Дашборд Челси - Ливерпуль №1](https://public.tableau.com/app/profile/vlad.ivanov/viz/MatchResult_ex1_xG/MatchResults2)
+* [Дашборд Челси - Ливерпуль №1.1](https://public.tableau.com/app/profile/vlad.ivanov/viz/MatchResult_ex1_shots/MatchResults)
+
 #Пример 2. Декабрьский матч московского Спартака в РПЛ. https://understat.com/match/16265 (ID = 16265)
 #Пример 3. Матч Серии-А Милан-Рома. Forza Milan!  https://understat.com/match/16862
 
