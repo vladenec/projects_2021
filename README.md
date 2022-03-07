@@ -8,7 +8,7 @@
 
 +
 
-в папке MatchAnalytics мой небольшой **pet-project** по визуализации футбольной аналитики (Python+Tableau) 
+## в папке MatchAnalytics мой небольшой **pet-проект** по визуализации футбольной аналитики (Python+Tableau) 
  
 
 ## Примеры построения Дашбордов  (Tableau) 
