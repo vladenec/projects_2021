@@ -6,7 +6,6 @@
 
 Стек: Python, Pandas, Seaborn, Plotly, SQL (PostgreSQL)
 
-+
 
 ## В папке "pet_MatchAnalytics" мой небольшой **pet-проект** по визуализации футбольной аналитики (Python+Tableau) 
 
